@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(5, 5, 5);
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.poster {
+    width: 45%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: rgb(91, 116, 194);
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.meme-img {
+    border: 10px solid rgb(20, 53, 85);
+    width: 75%;
+}
